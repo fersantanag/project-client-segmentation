@@ -2,10 +2,14 @@
 
 https://sea-lion-app-jugjh.ondigitalocean.app/
 
+## Explore Data Tab
 ![image](https://user-images.githubusercontent.com/59957385/206689841-b342945f-9401-4c11-bf17-25f9234b767a.png)
 ![image](https://user-images.githubusercontent.com/59957385/206689995-b78b3093-3f5f-49bb-a9d8-0d40663a765b.png)
+## Clustering Tab
 ![image](https://user-images.githubusercontent.com/59957385/206690064-33f45ede-13bb-4670-ae8b-730bb754d826.png)
+## Explore Segments
 ![image](https://user-images.githubusercontent.com/59957385/206690194-483b3c03-e4a0-44f7-979f-ae5a9c96f185.png)
+## Detailed Insights
 ![image](https://user-images.githubusercontent.com/59957385/206690357-c0e655b7-5667-4a20-b712-9f6d583e79fc.png)
 
 A company has collected data about its customers and the purchases they have made recently, in order to create customized products or targeted marketing campaigns they want to find customer profiles that may resemble each other. With this data the company asks you to:
