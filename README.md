@@ -1,20 +1,22 @@
-# Trabajo 12: Segmentación de clientes
+# Trabajo 12: Client Segmentation Visualization
 
 https://sea-lion-app-jugjh.ondigitalocean.app/
 
+![image](https://user-images.githubusercontent.com/59957385/206689841-b342945f-9401-4c11-bf17-25f9234b767a.png)
+![image](https://user-images.githubusercontent.com/59957385/206689995-b78b3093-3f5f-49bb-a9d8-0d40663a765b.png)
+![image](https://user-images.githubusercontent.com/59957385/206690064-33f45ede-13bb-4670-ae8b-730bb754d826.png)
+![image](https://user-images.githubusercontent.com/59957385/206690194-483b3c03-e4a0-44f7-979f-ae5a9c96f185.png)
+![image](https://user-images.githubusercontent.com/59957385/206690357-c0e655b7-5667-4a20-b712-9f6d583e79fc.png)
 
-Una empresa ha recopilado datos sobre sus clientes y las compras que han realizado últimamente, con el fin de crear productos personalizados o hacer campañas de marketing dirigidas quieren buscar perfiles de clientes que se puedan parecer entre ellos. Con estos datos la empresa os pide:
+A company has collected data about its customers and the purchases they have made recently, in order to create customized products or targeted marketing campaigns they want to find customer profiles that may resemble each other. With this data the company asks you to:
 
-* Realizar un análisis descriptivo de los datos buscando patrones comunes entre clientes
-* Construir un modelo de clustering para los diferentes tipos de clientes seleccionando las variables que se consideren más adecuadas para el estudio
-* Mediante un cuadro de mando, visualizar los aspectos más relevantes del descriptivo junto con la posibilidad de agrupar un nuevo cliente con uno de los clusters anteriores.
+* Perform a descriptive analysis of the data looking for common patterns among customers.
+* Build a clustering model for the different types of customers by selecting the variables considered most appropriate for the study.
+* Using a scorecard, visualize the most relevant aspects of the descriptive together with the possibility of grouping a new customer with one of the previous clusters.
 
-¿Qué tienen en común los clientes que se encuentran en el mismo clúster? 
+What do customers in the same cluster have in common? 
 
-**Enlace a los datos:** https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
-
-Ver notebook https://datalore.jetbrains.com/notebook/PcoOuAJfMaX1ioSfxqgrLM/qZUQfJoPUjRbwWtMa7reoe
-
+**Link to data:** https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
 
 Attributes
 
