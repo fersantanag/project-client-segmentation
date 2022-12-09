@@ -14,7 +14,8 @@ https://sea-lion-app-jugjh.ondigitalocean.app/
 ![image](https://user-images.githubusercontent.com/59957385/206690357-c0e655b7-5667-4a20-b712-9f6d583e79fc.png)
 
 ## Description
-Project for App development for Data visualization Class in ICAI, with teammate @jorgecalvar
+Project for App development for Data visualization Class in ICAI, with teammate @jorgecalvar.
+
 A company has collected data about its customers and the purchases they have made recently, in order to create customized products or targeted marketing campaigns they want to find customer profiles that may resemble each other. With this data the company asks you to:
 
 * Perform a descriptive analysis of the data looking for common patterns among customers.
